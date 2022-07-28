@@ -2,7 +2,8 @@
 
 A brief introduction to Leinad Cybre , i am computer scientist majoring in software development , hardware maintanance .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Web development , mobile app development and ambeded system have always fascinated me and i have found it a challange i am willing to explore and counter .
+My current experience has me design and develop frameworks like laravel and codeigniter as well as javascript frameworks like react and vue for front end .I am certain that OOP is the way to go from traditional POP .
 
 ### Markdown
 
