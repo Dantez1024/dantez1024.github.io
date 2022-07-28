@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Leinad Cybre Code Empire 254
 
-You can use the [editor on GitHub](https://github.com/Dantez1024/dantez1024.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+A brief introduction to Leinad Cybre , i am computer scientist majoring in software development , hardware maintanance .
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
